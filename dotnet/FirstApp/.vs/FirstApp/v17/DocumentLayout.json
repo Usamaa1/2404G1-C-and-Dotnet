@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\usama\\Desktop\\dotnet\\FirstApp\\",
+  "WorkspaceRootPath": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|c:\\users\\usama\\desktop\\dotnet\\firstapp\\firstapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|c:\\users\\usama\\desktop\\c# and dotnet\\dotnet\\firstapp\\firstapp\\views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|c:\\users\\usama\\desktop\\dotnet\\firstapp\\firstapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|c:\\users\\usama\\desktop\\c# and dotnet\\dotnet\\firstapp\\firstapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|c:\\users\\usama\\desktop\\dotnet\\firstapp\\firstapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|c:\\users\\usama\\desktop\\c# and dotnet\\dotnet\\firstapp\\firstapp\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|c:\\users\\usama\\desktop\\dotnet\\firstapp\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|c:\\users\\usama\\desktop\\c# and dotnet\\dotnet\\firstapp\\firstapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|c:\\users\\usama\\desktop\\c# and dotnet\\dotnet\\firstapp\\firstapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6A6E0CCF-D7C1-4276-ACDB-AEF7910920CA}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\usama\\Desktop\\dotnet\\FirstApp\\FirstApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FirstApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\usama\\Desktop\\dotnet\\FirstApp\\FirstApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FirstApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-03T15:45:50.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\usama\\Desktop\\dotnet\\FirstApp\\FirstApp\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "FirstApp\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\usama\\Desktop\\dotnet\\FirstApp\\FirstApp\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "FirstApp\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-03T15:21:01.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\usama\\Desktop\\dotnet\\FirstApp\\FirstApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FirstApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\usama\\Desktop\\dotnet\\FirstApp\\FirstApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FirstApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAgwCIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T15:17:00.925Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FirstApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T15:57:11.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FirstApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FirstApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-17T14:27:18.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\usama\\Desktop\\dotnet\\FirstApp\\FirstApp\\Program.cs",
-              "RelativeDocumentMoniker": "FirstApp\\Program.cs",
-              "ToolTip": "C:\\Users\\usama\\Desktop\\dotnet\\FirstApp\\FirstApp\\Program.cs",
-              "RelativeToolTip": "FirstApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\Models\\User.cs",
+              "RelativeToolTip": "FirstApp\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T15:15:20.29Z",
+              "WhenOpened": "2025-11-14T15:06:28.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\Views\\Form\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstApp\\Views\\Form\\Index.cshtml",
+              "ToolTip": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\Views\\Form\\Index.cshtml",
+              "RelativeToolTip": "FirstApp\\Views\\Form\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T15:00:13.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormController.cs",
+              "DocumentMoniker": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Controllers\\FormController.cs",
+              "ToolTip": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\Controllers\\FormController.cs",
+              "RelativeToolTip": "FirstApp\\Controllers\\FormController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:59:59.199Z",
               "EditorCaption": ""
             }
           ]

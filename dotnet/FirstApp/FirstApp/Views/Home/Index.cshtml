@@ -2,7 +2,38 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container">
+    
+    @if (ViewData["Names"] != null)
+    {
+        <ul>
+            @foreach (var name in (List<string>)ViewData["Names"])
+            {
+                <li>@name</li>
+            }
+    
+
+        </ul>
+    }
+    else
+    {
+        <p>No Items Found!</p>
+    }
+
+
+    @if (ViewBag.city != null)
+    {
+        <h3>City: @ViewBag.city</h3>
+    }
+
+
+
+
+    @if (TempData["message"] != null)
+    {
+        <div class="alert alert-primary text-center" role="alert">
+            @TempData["message"]
+        </div>
+    }
+
 </div>

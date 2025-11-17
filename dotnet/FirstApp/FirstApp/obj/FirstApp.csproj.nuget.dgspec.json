@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usama\\Desktop\\dotnet\\FirstApp\\FirstApp\\FirstApp.csproj": {}
+    "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\FirstApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usama\\Desktop\\dotnet\\FirstApp\\FirstApp\\FirstApp.csproj": {
+    "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\FirstApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usama\\Desktop\\dotnet\\FirstApp\\FirstApp\\FirstApp.csproj",
+        "projectUniqueName": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\FirstApp.csproj",
         "projectName": "FirstApp",
-        "projectPath": "C:\\Users\\usama\\Desktop\\dotnet\\FirstApp\\FirstApp\\FirstApp.csproj",
+        "projectPath": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\FirstApp.csproj",
         "packagesPath": "C:\\Users\\usama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usama\\Desktop\\dotnet\\FirstApp\\FirstApp\\obj\\",
+        "outputPath": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

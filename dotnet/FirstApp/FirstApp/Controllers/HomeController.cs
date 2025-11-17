@@ -15,15 +15,37 @@ namespace FirstApp.Controllers
 
         public IActionResult Index()
         {
+
+            List<string> names = new List<string>
+            {
+                "Alice",
+                "Bob",
+                "Charlie",
+                "Diana"
+            };
+
+
+            ViewData["Names"] = names;
+            ViewBag.city = "New York";
+
+            TempData["message"] = "Thank you for subscribing";
+            TempData.Keep();
+
             return View();
         }
 
         public IActionResult Privacy()
         {
+
+            TempData.Keep("message");
             return View();
         }
 
-
+        public IActionResult About()
+        {
+            TempData.Keep("message");
+            return View();
+        }
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
@@ -32,10 +54,7 @@ namespace FirstApp.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
-        public IActionResult About() 
-        {
-            return View();
-        }
+  
 
 
     }

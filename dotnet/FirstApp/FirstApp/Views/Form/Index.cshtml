@@ -1,0 +1,38 @@
+﻿@model FirstApp.Models.User
+
+
+<div class="container">
+
+    @if (TempData["successMessage"] != null)
+    {
+        <div class="alert alert-success text-center" role="alert">
+            @TempData["successMessage"]
+        </div>
+    }
+    <form action="Index"  method="post">
+
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Password</label>
+            <input asp-for="password" type="password" class="form-control" id="exampleInputPassword1">
+            <span asp-validation-for="password" class="text-red" ></span>
+
+        </div>
+        <div class="col-12">
+            <label for="inputAddress" class="form-label">Address</label>
+            <input asp-for="address" type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+            <span asp-validation-for="address" class="text-red"></span>
+
+        </div>
+        <div class="col-md-6">
+            <label for="inputCity" class="form-label">City</label>
+            <input asp-for="city" type="text" class="form-control" id="inputCity">
+            <span asp-validation-for="city" class="text-red"></span>
+
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+
+
+
+
