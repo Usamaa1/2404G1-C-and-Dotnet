@@ -1,0 +1,31 @@
+﻿@model Product
+
+<h1 class="text-center">Add Products</h1>
+<div class="container">
+    <form asp-action="AddProduct" method="post">
+       
+        <div class="form-outline mb-4">
+            <input type="text" id="form1Example1" class="form-control" asp-for="Id" />
+            <label class="form-label" for="form1Example1">Product Id</label>
+        </div>
+
+       
+        <div  class="form-outline mb-4">
+            <input type="text" id="form1Example2" class="form-control" asp-for="ProdName" />
+            <label class="form-label" for="form1Example2">Product Name</label>
+        </div>
+        <div  class="form-outline mb-4">
+            <input type="text" id="form1Example2" class="form-control" asp-for="ProdPrice" />
+            <label class="form-label" for="form1Example2">Product Price</label>
+        </div>
+        <div  class="form-outline mb-4">
+            <input type="text" id="form1Example2" class="form-control" asp-for="ProdDesc" />
+            <label class="form-label" for="form1Example2">Product Description</label>
+        </div>
+
+      
+
+        <!-- Submit button -->
+        <button type="submit" class="btn btn-primary btn-block">Submit</button>
+    </form>
+</div>

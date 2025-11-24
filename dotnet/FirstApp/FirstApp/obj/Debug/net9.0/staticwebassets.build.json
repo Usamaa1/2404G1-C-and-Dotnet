@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ial5CymNIE6yInI//nCoXEOXRZkS68dFXoYJQ6EgidA=",
+  "Hash": "yex0DX28et2g/dzQYmspM7rXneu95N1wtpL5mxmyIik=",
   "Source": "FirstApp",
   "BasePath": "_content/FirstApp",
   "Mode": "Default",
@@ -353,12 +353,12 @@
       "OriginalItemSpec": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\obj\\Debug\\net9.0\\compressed\\99wcdqdulp-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\obj\\Debug\\net9.0\\compressed\\99wcdqdulp-dg6f2m3r45.gz",
       "SourceId": "FirstApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/FirstApp",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=dg6f2m3r45}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -367,8 +367,8 @@
       "RelatedAsset": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "8vn51hs2ln",
+      "Integrity": "FM2FOVqjy/NhaqKZFXVr986jqNEpZbMh2TCAKAw5nOI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "dg6f2m3r45",
+      "Integrity": "bRje03v4SZhmOTzgKlA0jXaVMf1rWrhbs71V4Kkrzhc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\obj\\Debug\\net9.0\\compressed\\99wcdqdulp-b9sayid5wm.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\obj\\Debug\\net9.0\\compressed\\99wcdqdulp-dg6f2m3r45.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.003021148036"
         }
       ],
       "ResponseHeaders": [
@@ -2744,19 +2744,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "330"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"FM2FOVqjy/NhaqKZFXVr986jqNEpZbMh2TCAKAw5nOI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Nov 2025 15:03:24 GMT"
+          "Value": "Mon, 17 Nov 2025 14:27:31 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2772,26 +2772,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"bRje03v4SZhmOTzgKlA0jXaVMf1rWrhbs71V4Kkrzhc=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-bRje03v4SZhmOTzgKlA0jXaVMf1rWrhbs71V4Kkrzhc="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "699"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2801,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"bRje03v4SZhmOTzgKlA0jXaVMf1rWrhbs71V4Kkrzhc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Nov 2025 15:03:24 GMT"
+          "Value": "Mon, 17 Nov 2025 14:27:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bRje03v4SZhmOTzgKlA0jXaVMf1rWrhbs71V4Kkrzhc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\obj\\Debug\\net9.0\\compressed\\99wcdqdulp-dg6f2m3r45.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FM2FOVqjy/NhaqKZFXVr986jqNEpZbMh2TCAKAw5nOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Nov 2025 14:27:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FM2FOVqjy/NhaqKZFXVr986jqNEpZbMh2TCAKAw5nOI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.dg6f2m3r45.css",
+      "AssetFile": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\obj\\Debug\\net9.0\\compressed\\99wcdqdulp-dg6f2m3r45.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003021148036"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "330"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FM2FOVqjy/NhaqKZFXVr986jqNEpZbMh2TCAKAw5nOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Nov 2025 14:27:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bRje03v4SZhmOTzgKlA0jXaVMf1rWrhbs71V4Kkrzhc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dg6f2m3r45"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bRje03v4SZhmOTzgKlA0jXaVMf1rWrhbs71V4Kkrzhc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.dg6f2m3r45.css",
+      "AssetFile": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bRje03v4SZhmOTzgKlA0jXaVMf1rWrhbs71V4Kkrzhc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Nov 2025 14:27:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "dg6f2m3r45"
         },
         {
           "Name": "label",
@@ -2831,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-bRje03v4SZhmOTzgKlA0jXaVMf1rWrhbs71V4Kkrzhc="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\obj\\Debug\\net9.0\\compressed\\99wcdqdulp-b9sayid5wm.gz",
+      "Route": "css/site.dg6f2m3r45.css.gz",
+      "AssetFile": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\obj\\Debug\\net9.0\\compressed\\99wcdqdulp-dg6f2m3r45.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "330"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"FM2FOVqjy/NhaqKZFXVr986jqNEpZbMh2TCAKAw5nOI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Nov 2025 15:03:24 GMT"
+          "Value": "Mon, 17 Nov 2025 14:27:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "dg6f2m3r45"
         },
         {
           "Name": "label",
@@ -2884,144 +3021,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\obj\\Debug\\net9.0\\compressed\\99wcdqdulp-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003125000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Nov 2025 15:03:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Nov 2025 15:03:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\FirstApp\\FirstApp\\obj\\Debug\\net9.0\\compressed\\99wcdqdulp-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Nov 2025 15:03:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-FM2FOVqjy/NhaqKZFXVr986jqNEpZbMh2TCAKAw5nOI="
         }
       ]
     },
