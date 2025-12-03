@@ -43,8 +43,24 @@
   },
   {
     "ContainingType": "WebAPI.Controllers.ProductController",
+    "Method": "SingleProductWithId",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.ProductController",
     "Method": "DeleteProduct",
-    "RelativePath": "api/Product",
+    "RelativePath": "api/Product/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -52,7 +68,23 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.ProductController",
+    "Method": "ProductFilter",
+    "RelativePath": "api/Product/{prodName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "prodName",
+        "Type": "System.String",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

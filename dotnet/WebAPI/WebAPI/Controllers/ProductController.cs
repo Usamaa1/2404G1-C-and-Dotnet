@@ -21,6 +21,20 @@ namespace WebAPI.Controllers
 
             return Ok(_context.Products.ToList());
         }
+        [HttpGet("fetch/{prodId}")]
+        public IActionResult SingleProductWithId(int prodId)
+        {
+
+            return Ok(_context.Products.Find(prodId));
+        }
+
+        [HttpGet("{prodName}")]
+        public IActionResult ProductFilter(string prodName)
+        {
+            //return Ok(_context.Products.Where(p=>p.ProdName == prodName));
+
+            return Ok(_context.Products.Where(p=>p.ProdName.Contains(prodName)));
+        }
 
         [HttpPost]
         public IActionResult AddProduct(Product product)
@@ -45,6 +59,8 @@ namespace WebAPI.Controllers
             _context.SaveChanges();
             return Ok("Product Updated Successfully!");
         }
+
+
 
         [HttpDelete("{id}")]
         public IActionResult DeleteProduct(int id)

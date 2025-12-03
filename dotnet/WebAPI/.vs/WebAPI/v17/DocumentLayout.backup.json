@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{0A8E9E90-897D-4C61-94E7-BA9EA82A4469}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A8E9E90-897D-4C61-94E7-BA9EA82A4469}|WebAPI\\WebAPI.csproj|c:\\users\\usama\\desktop\\c# and dotnet\\dotnet\\webapi\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A8E9E90-897D-4C61-94E7-BA9EA82A4469}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A8E9E90-897D-4C61-94E7-BA9EA82A4469}|WebAPI\\WebAPI.csproj|c:\\users\\usama\\desktop\\c# and dotnet\\dotnet\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8E9E90-897D-4C61-94E7-BA9EA82A4469}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A8E9E90-897D-4C61-94E7-BA9EA82A4469}|WebAPI\\WebAPI.csproj|c:\\users\\usama\\desktop\\c# and dotnet\\dotnet\\webapi\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{0A8E9E90-897D-4C61-94E7-BA9EA82A4469}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{0A8E9E90-897D-4C61-94E7-BA9EA82A4469}|WebAPI\\WebAPI.csproj|c:\\users\\usama\\desktop\\c# and dotnet\\dotnet\\webapi\\webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8E9E90-897D-4C61-94E7-BA9EA82A4469}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,20 +22,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:05:08.625Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WebAPI.http",
-              "DocumentMoniker": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\WebAPI\\WebAPI\\WebAPI.http",
-              "RelativeDocumentMoniker": "WebAPI\\WebAPI.http",
-              "ToolTip": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\WebAPI\\WebAPI\\WebAPI.http",
-              "RelativeToolTip": "WebAPI\\WebAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-24T15:29:52.274Z",
-              "EditorCaption": ""
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\WebAPI\\WebAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\WebAPI\\WebAPI\\Models\\Product.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:53:51.599Z"
             },
             {
               "$type": "Document",
@@ -45,22 +56,9 @@
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\WebAPI\\WebAPI\\Controllers\\ProductController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAowDEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T15:24:51.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\WebAPI\\WebAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\usama\\Desktop\\C# and Dotnet\\dotnet\\WebAPI\\WebAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:11:57.659Z",
               "EditorCaption": ""
             }
           ]
