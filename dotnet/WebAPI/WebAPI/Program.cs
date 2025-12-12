@@ -3,11 +3,14 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using WebAPI.Data;
+using WebAPI.Services;
 
 
 var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddScoped<TokenService>();
 
 
 builder.Services.AddCors(options =>

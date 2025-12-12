@@ -20,9 +20,7 @@ public partial class _2404g1Context : DbContext
 
     public virtual DbSet<User> Users { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=2404G1;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=True;");
+
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -36,13 +34,9 @@ public partial class _2404g1Context : DbContext
 
         modelBuilder.Entity<User>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Users__3214EC075D44A817");
+            entity.HasKey(e => e.Id).HasName("PK__User__3214EC0766B92948");
 
-            entity.Property(e => e.Email).HasMaxLength(100);
-            entity.Property(e => e.PasswordHash)
-                .HasMaxLength(256)
-                .HasColumnName("passwordHash");
-            entity.Property(e => e.Username).HasMaxLength(50);
+            entity.ToTable("User");
         });
 
         OnModelCreatingPartial(modelBuilder);

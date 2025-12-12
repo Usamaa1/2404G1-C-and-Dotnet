@@ -3,7 +3,7 @@ using System.Text;
 
 namespace WebAPI.Helpers
 {
-    public class PasswordHasher
+    public static class PasswordHasher
     {
         public static string HashCode(string password)
         {
@@ -12,5 +12,10 @@ namespace WebAPI.Helpers
             var hashedBytes = sha.ComputeHash(bytes);
             return Convert.ToBase64String(hashedBytes);
         }
+
+        //public static bool verifyPassword()
+        //{
+
+        //}
     }
 }
