@@ -55,7 +55,9 @@ namespace WebAPI.Controllers
                 return Unauthorized("User not found");
             }
 
-            if(user.PasswordHash != PasswordHasher.HashCode(isUser.PasswordHash))
+       
+
+            if(isUser.PasswordHash != PasswordHasher.HashCode(user.PasswordHash))
             {
                 return Unauthorized("Invalid password");
             }

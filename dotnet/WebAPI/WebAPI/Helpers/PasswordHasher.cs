@@ -13,9 +13,5 @@ namespace WebAPI.Helpers
             return Convert.ToBase64String(hashedBytes);
         }
 
-        //public static bool verifyPassword()
-        //{
-
-        //}
     }
 }
